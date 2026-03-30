@@ -1,7 +1,7 @@
 # 🎬 Movie Industry Correlation Analysis
 
 A data analysis project exploring what factors drive box office revenue in the
-movie industry. The dataset covers **7,668 movies released between 1986 and 2016**
+movie industry. The dataset covers **7,668 movies released between 1980 and 2020**
 and examines relationships between budget, gross revenue, IMDb scores, genres,
 content ratings, production companies, and more.
 
