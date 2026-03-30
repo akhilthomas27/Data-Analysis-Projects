@@ -134,52 +134,18 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-```bash
-   git clone https://github.com/your-username/movie-correlation-analysis.git
-   cd movie-correlation-analysis
-```
-
-2. Install dependencies:
-```bash
-   pip install pandas numpy matplotlib seaborn
-```
-
-3. Launch the notebook:
-```bash
-   jupyter notebook Movie_Correlation_Analysis.ipynb
-```
-
-4. Run all cells from top to bottom (Kernel → Restart & Run All)
-
-> ⚠️ Make sure `movies.csv` is in the **same directory** as the notebook
-> before running.
-
----
-
-## 💡 Potential Future Work
-
-- **Inflation adjustment** — normalise budget and gross values to a single
-  base year using CPI data for accurate cross-decade comparisons
-- **Spearman correlation** — more robust than Pearson for the skewed
-  distributions present in budget and gross columns
-- **Predictive modelling** — use budget, genre, runtime, and rating as
-  features to predict gross revenue with regression models
-- **Sentiment analysis** — incorporate critic review sentiment as an
-  additional predictor of box office performance
-
----
-
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**Akhil Thomas**
+- GitHub: [@akhilthomas27](https://github.com/akhilthomas27)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/-akhil-thomas-/)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+
+
+Note: AI has been used to optimize the code and write better comments.
