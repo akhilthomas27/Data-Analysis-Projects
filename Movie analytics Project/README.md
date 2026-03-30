@@ -138,7 +138,7 @@ pip install pandas numpy matplotlib seaborn
 
 **Akhil Thomas**
 - GitHub: [@akhilthomas27](https://github.com/akhilthomas27)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/-akhil-thomas-/)
+- LinkedIn: [-akhil-thomas-](https://www.linkedin.com/in/-akhil-thomas-/)
 
 ---
 
@@ -146,6 +146,6 @@ pip install pandas numpy matplotlib seaborn
 
 This project is licensed under the MIT License.
 
-
+---
 
 Note: AI has been used to optimize the code and write better comments.
